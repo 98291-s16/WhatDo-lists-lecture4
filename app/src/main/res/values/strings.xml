@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WhatDo</string>
+    <string name="add_task">Enter Task Name</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="toggle">Toggle</string>
+</resources>

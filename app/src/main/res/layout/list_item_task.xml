@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/task_TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_margin="8dp"
+        tools:text="Buy Milk" />
+    <!-- The tools namespace is used to display dummy data in the layout
+         preview. This dummy data never actually goes into the app. For any
+         android attribute, you can use the tools namespace to insert dummy
+         data for the layout preview. -->
+
+</RelativeLayout>
