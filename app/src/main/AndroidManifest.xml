@@ -15,6 +15,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".TestIntentActivity"
+            android:label="@string/title_activity_test_intent"/>
     </application>
 
 </manifest>
